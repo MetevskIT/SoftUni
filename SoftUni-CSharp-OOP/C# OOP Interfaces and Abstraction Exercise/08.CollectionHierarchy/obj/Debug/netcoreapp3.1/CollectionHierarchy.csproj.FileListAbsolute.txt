@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\Users\PC\source\repos\Interfaces and Abstraction-Exercise\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache
