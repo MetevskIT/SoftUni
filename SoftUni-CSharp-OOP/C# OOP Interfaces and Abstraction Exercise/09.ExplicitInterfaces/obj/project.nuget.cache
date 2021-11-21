@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jm0d9VrTqcNDWycXoYzh2baTIjvkcFTHxxa3/PBrvTJIlkHef1FyAHEvmTW9acl9/VWmaqK0x8oJ8hHPR4roqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\ExplicitInterfaces\\08.ExplicitInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
