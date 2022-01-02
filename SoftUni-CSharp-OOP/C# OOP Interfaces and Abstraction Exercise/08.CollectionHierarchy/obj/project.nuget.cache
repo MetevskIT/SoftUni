@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Tnko65OpIz+BK1W1w0SJlcxcAw0YcCM8Q+7v9hIW9i5+mkxsYkj33bEL6xOxdbaoc1zWgyQF2FwxHaCScAtAQ==",
+  "dgSpecHash": "qy+VgLXzSbnM2LqVqmZv+ay1+bDKevveo2G8Qm/oWkUNKaYFy7bJdFbidcwoqeBNM98OpsbGWYL8fdhaHjqvSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\CollectionHierarchy\\07.CollectionHierarchy.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\SoftUni-CSharp-OOP\\C# OOP Interfaces and Abstraction Exercise\\08.CollectionHierarchy\\07.CollectionHierarchy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],

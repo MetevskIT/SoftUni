@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\CollectionHierarchy\\07.CollectionHierarchy.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\SoftUni-CSharp-OOP\\C# OOP Interfaces and Abstraction Exercise\\08.CollectionHierarchy\\07.CollectionHierarchy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\CollectionHierarchy\\07.CollectionHierarchy.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\SoftUni-CSharp-OOP\\C# OOP Interfaces and Abstraction Exercise\\08.CollectionHierarchy\\07.CollectionHierarchy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\CollectionHierarchy\\07.CollectionHierarchy.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\SoftUni-CSharp-OOP\\C# OOP Interfaces and Abstraction Exercise\\08.CollectionHierarchy\\07.CollectionHierarchy.csproj",
         "projectName": "07.CollectionHierarchy",
-        "projectPath": "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\CollectionHierarchy\\07.CollectionHierarchy.csproj",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\SoftUni-CSharp-OOP\\C# OOP Interfaces and Abstraction Exercise\\08.CollectionHierarchy\\07.CollectionHierarchy.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\source\\repos\\Interfaces and Abstraction-Exercise\\CollectionHierarchy\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\SoftUni\\SoftUni-CSharp-OOP\\C# OOP Interfaces and Abstraction Exercise\\08.CollectionHierarchy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
