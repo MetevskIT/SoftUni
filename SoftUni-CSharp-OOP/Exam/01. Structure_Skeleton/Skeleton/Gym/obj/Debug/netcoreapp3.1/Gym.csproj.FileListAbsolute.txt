@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\PC\Desktop\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+C:\Users\PC\Desktop\Programming\C# OOP\ExamPreparation\Exam\01. Structure_Skeleton\Skeleton\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache

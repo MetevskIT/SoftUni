@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dd43JogtUOSWhzE5Ano+lZ6ffg2ynUDc1woUG/qYaiadLFnINmBSc5A2hB9FN8hVlj0izhllu4nc784BcdU7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Programming\\C# OOP\\ExamPreparation\\MyExam\\03. Unit Tests_Skeleton\\UnitTests-Skeleton\\Gyms\\Gyms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
