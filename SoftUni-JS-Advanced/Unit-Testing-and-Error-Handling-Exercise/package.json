@@ -1,0 +1,14 @@
+{
+  "name": "14.exercise-js-advanced-unit-testing-and-error-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01.Request Validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.0"
+  }
+}
