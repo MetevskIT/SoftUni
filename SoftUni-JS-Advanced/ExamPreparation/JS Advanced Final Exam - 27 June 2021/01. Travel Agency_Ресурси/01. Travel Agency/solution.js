@@ -47,7 +47,7 @@ function solution() {
     submitBTN.disabled = true;
     continueBTN.disabled = false;
     editBTN.disabled = false;
-   
+
     fname.value = '';
     email.value = '';
     phone.value = '';
@@ -64,7 +64,7 @@ function solution() {
     phone.value = obj['Phone Number'];
     address.value = obj['Address'];
     code.value = obj['Postal Code'];
-    
+
     submitBTN.disabled = false;
     editBTN.disabled = true;
     continueBTN.disabled = true;
@@ -74,11 +74,9 @@ function solution() {
   function contin() {
     let block = document.getElementById('block');
 
-    while (block.lastElementChild) {
-      block.removeChild(block.lastElementChild);
-    }
+    block.innerHTML = '';
     let h3 = document.createElement('h3');
-    h3.textContent = "Thank you for your reservation!" 
+    h3.textContent = "Thank you for your reservation!"
     block.appendChild(h3);
 
   }
