@@ -2,9 +2,9 @@ window.addEventListener('load', solve);
 
 function solve() {
     let name = document.getElementById('model');
-    let yearElement = document.getElementById('year');
+    let year = document.getElementById('year');
     let description = document.getElementById('description');
-    let priceElement = document.getElementById('price');
+    let price = document.getElementById('price');
 
     let addBtn = document.getElementById('add');
     addBtn.addEventListener('click', add)
@@ -16,11 +16,10 @@ function solve() {
 
     function add(e) {
         e.preventDefault();
-        if (!name.value || !yearElement.value || !description.value || !priceElement.value) {
+        if (!name.value || !year.value || !description.value || !price.value||Number(year.value)<0||Number(price.value)<0) {
             return;
         }
-        let price = Number(priceElement.value);
-        let year = Number(yearElement.value)
+       
 
         let tr = document.createElement('tr')
 
@@ -31,7 +30,7 @@ function solve() {
 
         let tdPrice = document.createElement('td');
 
-        tdPrice.textContent = price.toFixed(2);
+        tdPrice.textContent = Number(price.value).toFixed(2);
 
         let tdBtns = document.createElement('td');
 
@@ -52,7 +51,7 @@ function solve() {
         hideTr.style.display = 'none';
 
         let tdYear = document.createElement('td');
-        tdYear.textContent = `Year: ${year}`;
+        tdYear.textContent = `Year: ${Number(year.value)}`;
 
         let tdDescr = document.createElement('td');
         tdDescr.setAttribute('colspan', 3);
@@ -88,9 +87,9 @@ function solve() {
         })
 
         name.value = ''
-        yearElement.value = ''
+        year.value = ''
         description.value = ''
-        priceElement.value = ''
+        price.value = ''
     }
 
 }
