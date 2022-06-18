@@ -1,0 +1,15 @@
+CREATE TABLE [People](
+
+[Id] INT PRIMARY KEY IDENTITY(1,1),
+[Name] NVARCHAR(200) NOT NULL,
+[Picture] VARBINARY(MAX),
+[Height] DECIMAL(3,2),
+[Weight] DECIMAL(5,2),
+[Gender] CHAR(1) NOT NULL,
+[Birthdate] DATETIME2 NOT NULL,
+[Biography] NVARCHAR(MAX)
+
+)
+
+INSERT INTO [People] VALUES
+('Ivan',NULL,175.3, 75,'m','2000-10-10','Crazy!')
